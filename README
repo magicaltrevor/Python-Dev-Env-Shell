@@ -1,0 +1,1 @@
+This is a simple vagrant project with puppet modules set up for a simple dev environment shell using ubuntu Lucid. It include python, mysql, and pip.
